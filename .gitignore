@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Datas
+Sentiment Classification/data/
+Sentiment Classification/bert_base/pytorch_model.bin
+
 # Distribution / packaging
 .Python
 build/
